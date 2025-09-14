@@ -1,4 +1,4 @@
-# Data Structures Lab
+# Python Data Structures Lab
 
 ### Exercise
 **Welcome to the Python Data Structures Lab!**
